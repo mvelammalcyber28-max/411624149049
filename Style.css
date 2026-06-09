@@ -1,0 +1,18 @@
+body{
+    color:green;
+    background-color:pink;
+}
+
+p{
+    font-family:'Times New Roman',Times,serif;
+    font-size: xx-large;
+    font-style: italic;
+
+
+}
+
+img{
+    height: 500px;
+    width:500px;
+    border-radius: 100px;
+}
